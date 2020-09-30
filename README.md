@@ -2,7 +2,7 @@
 
 Author: Hanwen, LIU - HKUST
 
-A Chinese words correction system with detection and correction functions based on n-gram language model and Chinese text segmentation. The detection core focused on the continuous singletons while the correction core focuses on the the shape and pronunciation similarity of characters.
+A Chinese words correction system with detection and correction functions based on n-gram language model and Chinese text segmentation. The detection core focused on the continuous singletons while the correction core fouceses on the the shape and pronunciation similarity of characters.
 
 ## Usage
 
